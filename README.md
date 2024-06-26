@@ -1,4 +1,4 @@
-sd# PDF Query Chatbot
+PDF Query Chatbot
 
 
 
