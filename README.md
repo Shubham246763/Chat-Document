@@ -43,7 +43,7 @@ HUGGINGFACE_API_KEY='your_api_key_here'
 -----
 To use the PDF Query Chatbot, follow these steps:
 
-1. Ensure that you have installed the required dependencies and added the OpenAI API key to the `.env` file.
+1. Ensure that you have installed the required dependencies and added the huggingface API key to the `.env` file.
 
 2. Run the `main.py` file using the Streamlit CLI. Execute the following command:
    ```
